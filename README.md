@@ -2,7 +2,7 @@
 <h3 align="center">A passionate JavaScript developer from Tunisia with a keen interest in Web3 technologies.</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/merrick17" alt="Profile Image" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://i.postimg.cc/Nf5gJcdc/ec15715b-225d-4870-be69-81c9a15c60c0-2.jpg" alt="Profile Image" width="150" height="150" style="border-radius: 50%;">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merrick17&label=Profile%20views&color=0e75b6&style=flat" alt="merrick17" /> </p>
